@@ -12,8 +12,8 @@
 <p>✅ O resto da divisão dos dois números;</p>
 
 <h3>Extras: </h3>
-<p>✅ Verifique se a soma dos dois números é par ~~(ou ímpar)~~;</p>
-<p>✅ Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~;</p>
+<p>✅ Verifique se a soma dos dois números é par (ou ímpar)</p>
+<p>✅ Verifique se os dois números inseridos são iguais (ou diferentes)</p>
 <h3>Adicionado por mim: </h3>
 <p>✅  Verifique se os dois números inseridos são do tipo number, caso não forem, retornar um erro;</p>
 <br>
